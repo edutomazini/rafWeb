@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ceb", "ceb\ceb.njsproj", "{35EAEF2F-70F7-472A-AD04-162531D50123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EAEF2F-70F7-472A-AD04-162531D50123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EAEF2F-70F7-472A-AD04-162531D50123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EAEF2F-70F7-472A-AD04-162531D50123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EAEF2F-70F7-472A-AD04-162531D50123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334799E3-47AC-4A55-B057-BCAA75FFA2AD}
+	EndGlobalSection
+EndGlobal
